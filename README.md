@@ -231,3 +231,4 @@ When you are done, your working directory should look something like this:
     ├── analyse_sample.sh
     └── run_pipeline.sh
 ```
+Hey, we are practising for our exam!
